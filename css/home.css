@@ -8,6 +8,13 @@
 section aside div{
     padding: 20px;
 }
+#mainveena {
+   display: block;
+}
+#mainveena img{
+    width:100%;
+   
+}
 section aside{
     background-color: white;
     font-family: 'Times New Roman', Times, serif;
